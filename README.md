@@ -1,11 +1,8 @@
-<p align="center">
+<p align="center"> 
   <img src="header.png" alt="header"/>
 </p>
-<!-- 
-<h1 align="center">Hi 👋, I'm Khansa Khalda</h1>
-<h3 align="center">Data Enthusiast</h3>
 
---- -->
+---
 
 ## 👩‍💻 About Me
 
@@ -14,6 +11,7 @@ I am a fresh graduate looking for opportunities in data analysis, data science, 
 ---
 
 ## 🚀 Skills
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,mysql,c,cpp,html,css,js&perline=5" />
 </p>
@@ -34,4 +32,10 @@ I am a fresh graduate looking for opportunities in data analysis, data science, 
   <a href="https://khansakhalda-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  💡 Passionate about turning data into meaningful insights
 </p>
