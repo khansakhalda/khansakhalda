@@ -2,11 +2,11 @@
 <p align="center">
   <img src="header.png" alt="header"/>
 </p>
-
+<!-- 
 <h1 align="center">Hi 👋, I'm Khansa Khalda</h1>
 <h3 align="center">Data Enthusiast</h3>
 
----
+--- -->
 
 <!-- ================= ABOUT ================= -->
 ## 👩‍💻 About Me
