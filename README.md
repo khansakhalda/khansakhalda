@@ -1,4 +1,3 @@
-<!-- ================= HEADER ================= -->
 <p align="center">
   <img src="header.png" alt="header"/>
 </p>
@@ -8,14 +7,12 @@
 
 --- -->
 
-<!-- ================= ABOUT ================= -->
 ## 👩‍💻 About Me
 
 I am a fresh graduate looking for opportunities in data analysis, data science, and machine learning, with a background in Informatics. I have experience as an organizational data analyst, backed by hands-on projects and certifications in data science and machine learning.
 
 ---
 
-<!-- ================= SKILLS ================= -->
 ## 🚀 Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,mysql,c,cpp,html,css,js&perline=5" />
@@ -23,7 +20,6 @@ I am a fresh graduate looking for opportunities in data analysis, data science, 
 
 ---
 
-<!-- ================= CONNECT ================= -->
 ## 🌐 Connect with Me
 
 <p align="center">
@@ -42,7 +38,7 @@ I am a fresh graduate looking for opportunities in data analysis, data science, 
 
 ---
 
-## Play game with Me
+## 👾 Play Game with Me
 
 <div align="center">
 
