@@ -35,21 +35,3 @@ I am a fresh graduate looking for opportunities in data analysis, data science, 
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
 </p>
-
----
-
-## 👾 Play Game with Me
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khansakhalda/khansakhalda/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khansakhalda/khansakhalda/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/khansakhalda/khansakhalda/output/pacman-contribution-graph.svg">
-</picture>
-<!-- 
-<br><br>
-
-<img src="https://raw.githubusercontent.com/khansakhalda/khansakhalda/output/snake.svg" alt="Snake animation" /> -->
-
-</div>
