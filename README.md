@@ -2,8 +2,6 @@
   <img src="header.png" alt="header"/>
 </p> -->
 
----
-
 ## 👩‍💻 About Me
 
 I am a fresh graduate with an interest in data, web and mobile development, and UI/UX design, with a background in Informatics. I have experience working on data-driven solutions and building user-centered applications, supported by hands-on projects across data, systems development, and design.
