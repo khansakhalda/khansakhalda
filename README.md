@@ -6,7 +6,7 @@
 
 ## 👩‍💻 About Me
 
-I am a fresh graduate looking for opportunities in data analysis, data science, and machine learning, with a background in Informatics. I have experience as an organizational data analyst, backed by hands-on projects and certifications in data science and machine learning.
+I am a fresh graduate with an interest in data, web and mobile development, and UI/UX design, with a background in Informatics. I have experience working on data-driven solutions and building user-centered applications, supported by hands-on projects across data, systems development, and design.
 
 ---
 
@@ -45,10 +45,4 @@ I am a fresh graduate looking for opportunities in data analysis, data science, 
   <a href="https://khansakhalda-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  💡 Passionate about turning data into meaningful insights
 </p>
