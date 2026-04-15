@@ -4,7 +4,7 @@
 
 ## 👩‍💻 About Me
 
-I am a fresh graduate with an interest in data, web and mobile development, and UI/UX design, with a background in Informatics. I have experience working on data-driven solutions and building user-centered applications, supported by hands-on projects across data, systems development, and design.
+I am a fresh graduate in Informatics with an interest in data, web and mobile development, and UI/UX design. I have experience working on data-driven solutions and building user-centered applications through hands-on projects in data analysis, system development, and design.
 
 ---
 
