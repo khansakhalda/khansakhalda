@@ -1,6 +1,6 @@
-<p align="center"> 
+<!-- <p align="center"> 
   <img src="header.png" alt="header"/>
-</p>
+</p> -->
 
 ---
 
@@ -14,7 +14,8 @@ I am a fresh graduate with an interest in data, web and mobile development, and 
 
 <p align="center">
 
-  <!-- ================== FRAMEWORKS & LANGUAGES ================== -->
+  <h3>Frameworks & Languages</h3>
+
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -25,9 +26,10 @@ I am a fresh graduate with an interest in data, web and mobile development, and 
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 
-  <br/>
+  <br/><br/>
 
-  <!-- ================== TOOLS ================== -->
+  <h3>Tools</h3>
+
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
   <img src="https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
